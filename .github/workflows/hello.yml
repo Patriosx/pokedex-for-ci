@@ -11,4 +11,4 @@ jobs:
     steps:
       - name: Echo the message
         run: |
-          echo "Hola esto es una prueba!"
+          echo "Hola esto es una prueba de CI!"
