@@ -12,3 +12,6 @@ jobs:
       - name: Echo the message
         run: |
           echo "Hola esto es una prueba de CI!"
+      - name: La fecha de hoy
+        run: date
+      - run: ls -l
